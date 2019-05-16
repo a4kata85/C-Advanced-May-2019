@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\bin\Debug\netcoreapp2.1\P09. Miner.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\bin\Debug\netcoreapp2.1\P09. Miner.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\bin\Debug\netcoreapp2.1\P09. Miner.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\bin\Debug\netcoreapp2.1\P09. Miner.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\bin\Debug\netcoreapp2.1\P09. Miner.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\obj\Debug\netcoreapp2.1\P09. Miner.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\obj\Debug\netcoreapp2.1\P09. Miner.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\obj\Debug\netcoreapp2.1\P09. Miner.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\obj\Debug\netcoreapp2.1\P09. Miner.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\obj\Debug\netcoreapp2.1\P09. Miner.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P09. Miner\obj\Debug\netcoreapp2.1\P09. Miner.pdb

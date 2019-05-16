@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\bin\Debug\netcoreapp2.1\P03. Maximal Sum.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\bin\Debug\netcoreapp2.1\P03. Maximal Sum.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\bin\Debug\netcoreapp2.1\P03. Maximal Sum.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\bin\Debug\netcoreapp2.1\P03. Maximal Sum.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\bin\Debug\netcoreapp2.1\P03. Maximal Sum.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\obj\Debug\netcoreapp2.1\P03. Maximal Sum.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\obj\Debug\netcoreapp2.1\P03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\obj\Debug\netcoreapp2.1\P03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\obj\Debug\netcoreapp2.1\P03. Maximal Sum.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\obj\Debug\netcoreapp2.1\P03. Maximal Sum.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P03. Maximal Sum\obj\Debug\netcoreapp2.1\P03. Maximal Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\bin\Debug\netcoreapp2.1\P04. Symbol in Matrix.deps.json
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\bin\Debug\netcoreapp2.1\P04. Symbol in Matrix.runtimeconfig.json
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\bin\Debug\netcoreapp2.1\P04. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\bin\Debug\netcoreapp2.1\P04. Symbol in Matrix.dll
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\bin\Debug\netcoreapp2.1\P04. Symbol in Matrix.pdb
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\obj\Debug\netcoreapp2.1\P04. Symbol in Matrix.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\obj\Debug\netcoreapp2.1\P04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\obj\Debug\netcoreapp2.1\P04. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\obj\Debug\netcoreapp2.1\P04. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\obj\Debug\netcoreapp2.1\P04. Symbol in Matrix.dll
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P04. Symbol in Matrix\obj\Debug\netcoreapp2.1\P04. Symbol in Matrix.pdb

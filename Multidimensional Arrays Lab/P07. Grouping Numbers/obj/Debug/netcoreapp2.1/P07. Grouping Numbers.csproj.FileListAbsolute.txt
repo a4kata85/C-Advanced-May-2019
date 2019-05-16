@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\bin\Debug\netcoreapp2.1\P07. Grouping Numbers.deps.json
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\bin\Debug\netcoreapp2.1\P07. Grouping Numbers.runtimeconfig.json
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\bin\Debug\netcoreapp2.1\P07. Grouping Numbers.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\bin\Debug\netcoreapp2.1\P07. Grouping Numbers.dll
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\bin\Debug\netcoreapp2.1\P07. Grouping Numbers.pdb
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\obj\Debug\netcoreapp2.1\P07. Grouping Numbers.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\obj\Debug\netcoreapp2.1\P07. Grouping Numbers.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\obj\Debug\netcoreapp2.1\P07. Grouping Numbers.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\obj\Debug\netcoreapp2.1\P07. Grouping Numbers.dll
+C:\Users\EliteBook\source\repos\Multidimensional Arrays\P07. Grouping Numbers\obj\Debug\netcoreapp2.1\P07. Grouping Numbers.pdb

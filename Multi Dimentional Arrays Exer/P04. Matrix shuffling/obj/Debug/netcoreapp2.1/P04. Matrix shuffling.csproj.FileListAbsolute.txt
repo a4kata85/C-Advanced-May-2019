@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\bin\Debug\netcoreapp2.1\P04. Matrix shuffling.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\bin\Debug\netcoreapp2.1\P04. Matrix shuffling.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\bin\Debug\netcoreapp2.1\P04. Matrix shuffling.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\bin\Debug\netcoreapp2.1\P04. Matrix shuffling.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\bin\Debug\netcoreapp2.1\P04. Matrix shuffling.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\obj\Debug\netcoreapp2.1\P04. Matrix shuffling.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\obj\Debug\netcoreapp2.1\P04. Matrix shuffling.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\obj\Debug\netcoreapp2.1\P04. Matrix shuffling.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\obj\Debug\netcoreapp2.1\P04. Matrix shuffling.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\obj\Debug\netcoreapp2.1\P04. Matrix shuffling.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P04. Matrix shuffling\obj\Debug\netcoreapp2.1\P04. Matrix shuffling.pdb

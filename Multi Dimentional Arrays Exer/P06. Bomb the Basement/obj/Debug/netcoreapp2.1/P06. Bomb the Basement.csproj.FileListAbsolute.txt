@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\bin\Debug\netcoreapp2.1\P06. Bomb the Basement.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\bin\Debug\netcoreapp2.1\P06. Bomb the Basement.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\bin\Debug\netcoreapp2.1\P06. Bomb the Basement.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\bin\Debug\netcoreapp2.1\P06. Bomb the Basement.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\bin\Debug\netcoreapp2.1\P06. Bomb the Basement.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\obj\Debug\netcoreapp2.1\P06. Bomb the Basement.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\obj\Debug\netcoreapp2.1\P06. Bomb the Basement.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\obj\Debug\netcoreapp2.1\P06. Bomb the Basement.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\obj\Debug\netcoreapp2.1\P06. Bomb the Basement.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\obj\Debug\netcoreapp2.1\P06. Bomb the Basement.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P06. Bomb the Basement\obj\Debug\netcoreapp2.1\P06. Bomb the Basement.pdb

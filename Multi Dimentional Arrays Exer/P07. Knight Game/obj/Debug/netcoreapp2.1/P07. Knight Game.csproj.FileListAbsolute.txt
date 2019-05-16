@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\bin\Debug\netcoreapp2.1\P07. Knight Game.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\bin\Debug\netcoreapp2.1\P07. Knight Game.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\bin\Debug\netcoreapp2.1\P07. Knight Game.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\bin\Debug\netcoreapp2.1\P07. Knight Game.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\bin\Debug\netcoreapp2.1\P07. Knight Game.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\obj\Debug\netcoreapp2.1\P07. Knight Game.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\obj\Debug\netcoreapp2.1\P07. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\obj\Debug\netcoreapp2.1\P07. Knight Game.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\obj\Debug\netcoreapp2.1\P07. Knight Game.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\obj\Debug\netcoreapp2.1\P07. Knight Game.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Multi Dimentional Arrays Exer\P07. Knight Game\obj\Debug\netcoreapp2.1\P07. Knight Game.pdb
