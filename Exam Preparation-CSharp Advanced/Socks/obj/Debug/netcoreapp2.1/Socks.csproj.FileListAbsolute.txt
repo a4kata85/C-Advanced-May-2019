@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\bin\Debug\netcoreapp2.1\Socks.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\bin\Debug\netcoreapp2.1\Socks.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\bin\Debug\netcoreapp2.1\Socks.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\bin\Debug\netcoreapp2.1\Socks.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\bin\Debug\netcoreapp2.1\Socks.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\obj\Debug\netcoreapp2.1\Socks.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\obj\Debug\netcoreapp2.1\Socks.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\obj\Debug\netcoreapp2.1\Socks.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\obj\Debug\netcoreapp2.1\Socks.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\obj\Debug\netcoreapp2.1\Socks.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\Socks\obj\Debug\netcoreapp2.1\Socks.pdb

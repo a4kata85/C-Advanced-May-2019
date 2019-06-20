@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\bin\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\bin\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\bin\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\bin\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\bin\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\obj\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\obj\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\obj\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\obj\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P03. Generic Swap Method Strings\obj\Debug\netcoreapp2.1\P03. Generic Swap Method Strings.pdb

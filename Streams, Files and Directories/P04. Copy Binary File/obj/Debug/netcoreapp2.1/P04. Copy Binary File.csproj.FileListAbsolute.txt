@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\bin\Debug\netcoreapp2.1\P04. Copy Binary File.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\bin\Debug\netcoreapp2.1\P04. Copy Binary File.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\bin\Debug\netcoreapp2.1\P04. Copy Binary File.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\bin\Debug\netcoreapp2.1\P04. Copy Binary File.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\bin\Debug\netcoreapp2.1\P04. Copy Binary File.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\obj\Debug\netcoreapp2.1\P04. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\obj\Debug\netcoreapp2.1\P04. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\obj\Debug\netcoreapp2.1\P04. Copy Binary File.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\obj\Debug\netcoreapp2.1\P04. Copy Binary File.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P04. Copy Binary File\obj\Debug\netcoreapp2.1\P04. Copy Binary File.pdb

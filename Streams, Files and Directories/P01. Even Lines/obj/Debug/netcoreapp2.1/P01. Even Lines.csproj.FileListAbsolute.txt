@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\bin\Debug\netcoreapp2.1\P01. Even Lines.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\bin\Debug\netcoreapp2.1\P01. Even Lines.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\bin\Debug\netcoreapp2.1\P01. Even Lines.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\bin\Debug\netcoreapp2.1\P01. Even Lines.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\bin\Debug\netcoreapp2.1\P01. Even Lines.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\obj\Debug\netcoreapp2.1\P01. Even Lines.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\obj\Debug\netcoreapp2.1\P01. Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\obj\Debug\netcoreapp2.1\P01. Even Lines.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\obj\Debug\netcoreapp2.1\P01. Even Lines.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\obj\Debug\netcoreapp2.1\P01. Even Lines.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P01. Even Lines\obj\Debug\netcoreapp2.1\P01. Even Lines.pdb

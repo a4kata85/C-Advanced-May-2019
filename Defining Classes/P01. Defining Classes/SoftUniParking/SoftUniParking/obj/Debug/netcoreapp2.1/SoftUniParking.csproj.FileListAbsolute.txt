@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\P01. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache

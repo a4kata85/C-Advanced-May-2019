@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\bin\Debug\netcoreapp2.1\P08. Threeuple.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\bin\Debug\netcoreapp2.1\P08. Threeuple.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\bin\Debug\netcoreapp2.1\P08. Threeuple.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\bin\Debug\netcoreapp2.1\P08. Threeuple.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\bin\Debug\netcoreapp2.1\P08. Threeuple.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\obj\Debug\netcoreapp2.1\P08. Threeuple.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\obj\Debug\netcoreapp2.1\P08. Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\obj\Debug\netcoreapp2.1\P08. Threeuple.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\obj\Debug\netcoreapp2.1\P08. Threeuple.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\obj\Debug\netcoreapp2.1\P08. Threeuple.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P08. Threeuple\obj\Debug\netcoreapp2.1\P08. Threeuple.pdb

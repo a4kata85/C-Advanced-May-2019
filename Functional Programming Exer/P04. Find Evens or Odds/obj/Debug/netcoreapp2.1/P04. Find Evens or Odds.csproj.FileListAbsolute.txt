@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\bin\Debug\netcoreapp2.1\P04. Find Evens or Odds.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\bin\Debug\netcoreapp2.1\P04. Find Evens or Odds.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\bin\Debug\netcoreapp2.1\P04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\bin\Debug\netcoreapp2.1\P04. Find Evens or Odds.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\bin\Debug\netcoreapp2.1\P04. Find Evens or Odds.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\obj\Debug\netcoreapp2.1\P04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\obj\Debug\netcoreapp2.1\P04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\obj\Debug\netcoreapp2.1\P04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\obj\Debug\netcoreapp2.1\P04. Find Evens or Odds.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P04. Find Evens or Odds\obj\Debug\netcoreapp2.1\P04. Find Evens or Odds.pdb

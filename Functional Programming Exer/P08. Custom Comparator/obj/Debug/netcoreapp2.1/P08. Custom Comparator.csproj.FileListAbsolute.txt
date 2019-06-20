@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\bin\Debug\netcoreapp2.1\P08. Custom Comparator.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\bin\Debug\netcoreapp2.1\P08. Custom Comparator.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\bin\Debug\netcoreapp2.1\P08. Custom Comparator.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\bin\Debug\netcoreapp2.1\P08. Custom Comparator.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\bin\Debug\netcoreapp2.1\P08. Custom Comparator.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\obj\Debug\netcoreapp2.1\P08. Custom Comparator.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\obj\Debug\netcoreapp2.1\P08. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\obj\Debug\netcoreapp2.1\P08. Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\obj\Debug\netcoreapp2.1\P08. Custom Comparator.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\obj\Debug\netcoreapp2.1\P08. Custom Comparator.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P08. Custom Comparator\obj\Debug\netcoreapp2.1\P08. Custom Comparator.pdb

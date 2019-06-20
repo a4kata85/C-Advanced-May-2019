@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\bin\Debug\netcoreapp2.1\P07. Predicate For Names.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\bin\Debug\netcoreapp2.1\P07. Predicate For Names.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\bin\Debug\netcoreapp2.1\P07. Predicate For Names.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\bin\Debug\netcoreapp2.1\P07. Predicate For Names.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\bin\Debug\netcoreapp2.1\P07. Predicate For Names.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\obj\Debug\netcoreapp2.1\P07. Predicate For Names.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\obj\Debug\netcoreapp2.1\P07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\obj\Debug\netcoreapp2.1\P07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\obj\Debug\netcoreapp2.1\P07. Predicate For Names.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\obj\Debug\netcoreapp2.1\P07. Predicate For Names.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P07. Predicate For Names\obj\Debug\netcoreapp2.1\P07. Predicate For Names.pdb

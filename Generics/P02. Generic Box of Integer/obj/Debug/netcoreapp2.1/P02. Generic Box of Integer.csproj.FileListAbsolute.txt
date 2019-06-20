@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\bin\Debug\netcoreapp2.1\P02. Generic Box of Integer.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\bin\Debug\netcoreapp2.1\P02. Generic Box of Integer.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\bin\Debug\netcoreapp2.1\P02. Generic Box of Integer.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\bin\Debug\netcoreapp2.1\P02. Generic Box of Integer.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\bin\Debug\netcoreapp2.1\P02. Generic Box of Integer.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\obj\Debug\netcoreapp2.1\P02. Generic Box of Integer.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\obj\Debug\netcoreapp2.1\P02. Generic Box of Integer.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\obj\Debug\netcoreapp2.1\P02. Generic Box of Integer.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\obj\Debug\netcoreapp2.1\P02. Generic Box of Integer.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P02. Generic Box of Integer\obj\Debug\netcoreapp2.1\P02. Generic Box of Integer.pdb

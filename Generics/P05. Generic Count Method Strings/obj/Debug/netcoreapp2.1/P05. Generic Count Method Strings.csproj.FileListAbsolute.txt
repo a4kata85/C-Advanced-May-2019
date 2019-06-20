@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\bin\Debug\netcoreapp2.1\P05. Generic Count Method Strings.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\bin\Debug\netcoreapp2.1\P05. Generic Count Method Strings.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\bin\Debug\netcoreapp2.1\P05. Generic Count Method Strings.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\bin\Debug\netcoreapp2.1\P05. Generic Count Method Strings.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\bin\Debug\netcoreapp2.1\P05. Generic Count Method Strings.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\obj\Debug\netcoreapp2.1\P05. Generic Count Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\obj\Debug\netcoreapp2.1\P05. Generic Count Method Strings.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\obj\Debug\netcoreapp2.1\P05. Generic Count Method Strings.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\obj\Debug\netcoreapp2.1\P05. Generic Count Method Strings.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P05. Generic Count Method Strings\obj\Debug\netcoreapp2.1\P05. Generic Count Method Strings.pdb

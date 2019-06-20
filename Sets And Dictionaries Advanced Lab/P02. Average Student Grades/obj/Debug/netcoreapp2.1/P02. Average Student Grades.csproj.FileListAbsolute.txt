@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\bin\Debug\netcoreapp2.1\P02. Average Student Grades.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\bin\Debug\netcoreapp2.1\P02. Average Student Grades.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\bin\Debug\netcoreapp2.1\P02. Average Student Grades.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\bin\Debug\netcoreapp2.1\P02. Average Student Grades.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\bin\Debug\netcoreapp2.1\P02. Average Student Grades.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\obj\Debug\netcoreapp2.1\P02. Average Student Grades.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\obj\Debug\netcoreapp2.1\P02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\obj\Debug\netcoreapp2.1\P02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\obj\Debug\netcoreapp2.1\P02. Average Student Grades.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\obj\Debug\netcoreapp2.1\P02. Average Student Grades.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P02. Average Student Grades\obj\Debug\netcoreapp2.1\P02. Average Student Grades.pdb

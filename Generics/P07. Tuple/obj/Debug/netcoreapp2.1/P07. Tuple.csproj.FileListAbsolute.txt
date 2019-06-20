@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\bin\Debug\netcoreapp2.1\P07. Tuple.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\bin\Debug\netcoreapp2.1\P07. Tuple.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\bin\Debug\netcoreapp2.1\P07. Tuple.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\bin\Debug\netcoreapp2.1\P07. Tuple.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\bin\Debug\netcoreapp2.1\P07. Tuple.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\obj\Debug\netcoreapp2.1\P07. Tuple.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\obj\Debug\netcoreapp2.1\P07. Tuple.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\obj\Debug\netcoreapp2.1\P07. Tuple.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\obj\Debug\netcoreapp2.1\P07. Tuple.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\obj\Debug\netcoreapp2.1\P07. Tuple.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P07. Tuple\obj\Debug\netcoreapp2.1\P07. Tuple.pdb

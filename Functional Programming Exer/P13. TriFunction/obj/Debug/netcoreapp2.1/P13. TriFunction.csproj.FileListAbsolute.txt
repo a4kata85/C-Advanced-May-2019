@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\bin\Debug\netcoreapp2.1\P13. TriFunction.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\bin\Debug\netcoreapp2.1\P13. TriFunction.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\bin\Debug\netcoreapp2.1\P13. TriFunction.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\bin\Debug\netcoreapp2.1\P13. TriFunction.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\bin\Debug\netcoreapp2.1\P13. TriFunction.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\obj\Debug\netcoreapp2.1\P13. TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\obj\Debug\netcoreapp2.1\P13. TriFunction.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\obj\Debug\netcoreapp2.1\P13. TriFunction.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\obj\Debug\netcoreapp2.1\P13. TriFunction.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P13. TriFunction\obj\Debug\netcoreapp2.1\P13. TriFunction.pdb

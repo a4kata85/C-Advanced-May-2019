@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\bin\Debug\netcoreapp2.1\P04. Even Times.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\bin\Debug\netcoreapp2.1\P04. Even Times.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\bin\Debug\netcoreapp2.1\P04. Even Times.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\bin\Debug\netcoreapp2.1\P04. Even Times.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\bin\Debug\netcoreapp2.1\P04. Even Times.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\obj\Debug\netcoreapp2.1\P04. Even Times.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\obj\Debug\netcoreapp2.1\P04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\obj\Debug\netcoreapp2.1\P04. Even Times.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\obj\Debug\netcoreapp2.1\P04. Even Times.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\obj\Debug\netcoreapp2.1\P04. Even Times.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P04. Even Times\obj\Debug\netcoreapp2.1\P04. Even Times.pdb

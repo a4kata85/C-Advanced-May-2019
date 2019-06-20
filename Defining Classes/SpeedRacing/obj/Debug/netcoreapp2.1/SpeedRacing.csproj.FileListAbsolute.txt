@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.pdb

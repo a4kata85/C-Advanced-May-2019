@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\bin\Debug\netcoreapp2.1\P06. Parking Lot.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\bin\Debug\netcoreapp2.1\P06. Parking Lot.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\bin\Debug\netcoreapp2.1\P06. Parking Lot.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\bin\Debug\netcoreapp2.1\P06. Parking Lot.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\bin\Debug\netcoreapp2.1\P06. Parking Lot.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\obj\Debug\netcoreapp2.1\P06. Parking Lot.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\obj\Debug\netcoreapp2.1\P06. Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\obj\Debug\netcoreapp2.1\P06. Parking Lot.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\obj\Debug\netcoreapp2.1\P06. Parking Lot.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\obj\Debug\netcoreapp2.1\P06. Parking Lot.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets And Dictionaries Advanced Lab\P06. Parking Lot\obj\Debug\netcoreapp2.1\P06. Parking Lot.pdb

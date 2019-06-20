@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\bin\Debug\netcoreapp2.1\P03. Word Count.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\bin\Debug\netcoreapp2.1\P03. Word Count.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\bin\Debug\netcoreapp2.1\P03. Word Count.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\bin\Debug\netcoreapp2.1\P03. Word Count.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\bin\Debug\netcoreapp2.1\P03. Word Count.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\obj\Debug\netcoreapp2.1\P03. Word Count.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\obj\Debug\netcoreapp2.1\P03. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\obj\Debug\netcoreapp2.1\P03. Word Count.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\obj\Debug\netcoreapp2.1\P03. Word Count.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\obj\Debug\netcoreapp2.1\P03. Word Count.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P03. Word Count\obj\Debug\netcoreapp2.1\P03. Word Count.pdb

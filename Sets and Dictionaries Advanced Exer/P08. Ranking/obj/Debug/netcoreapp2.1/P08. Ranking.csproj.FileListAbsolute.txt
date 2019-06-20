@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\bin\Debug\netcoreapp2.1\P08. Ranking.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\bin\Debug\netcoreapp2.1\P08. Ranking.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\bin\Debug\netcoreapp2.1\P08. Ranking.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\bin\Debug\netcoreapp2.1\P08. Ranking.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\bin\Debug\netcoreapp2.1\P08. Ranking.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\obj\Debug\netcoreapp2.1\P08. Ranking.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\obj\Debug\netcoreapp2.1\P08. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\obj\Debug\netcoreapp2.1\P08. Ranking.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\obj\Debug\netcoreapp2.1\P08. Ranking.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\obj\Debug\netcoreapp2.1\P08. Ranking.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P08. Ranking\obj\Debug\netcoreapp2.1\P08. Ranking.pdb

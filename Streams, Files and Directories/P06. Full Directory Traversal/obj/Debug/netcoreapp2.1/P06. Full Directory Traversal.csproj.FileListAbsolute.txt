@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\bin\Debug\netcoreapp2.1\P06. Full Directory Traversal.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\bin\Debug\netcoreapp2.1\P06. Full Directory Traversal.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\bin\Debug\netcoreapp2.1\P06. Full Directory Traversal.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\bin\Debug\netcoreapp2.1\P06. Full Directory Traversal.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\bin\Debug\netcoreapp2.1\P06. Full Directory Traversal.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\obj\Debug\netcoreapp2.1\P06. Full Directory Traversal.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\obj\Debug\netcoreapp2.1\P06. Full Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\obj\Debug\netcoreapp2.1\P06. Full Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\obj\Debug\netcoreapp2.1\P06. Full Directory Traversal.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\obj\Debug\netcoreapp2.1\P06. Full Directory Traversal.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Streams, Files and Directories\P06. Full Directory Traversal\obj\Debug\netcoreapp2.1\P06. Full Directory Traversal.pdb

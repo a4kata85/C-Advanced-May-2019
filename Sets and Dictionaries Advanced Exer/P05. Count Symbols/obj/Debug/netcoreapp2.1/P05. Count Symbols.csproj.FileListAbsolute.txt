@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\bin\Debug\netcoreapp2.1\P05. Count Symbols.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\bin\Debug\netcoreapp2.1\P05. Count Symbols.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\bin\Debug\netcoreapp2.1\P05. Count Symbols.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\bin\Debug\netcoreapp2.1\P05. Count Symbols.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\bin\Debug\netcoreapp2.1\P05. Count Symbols.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\obj\Debug\netcoreapp2.1\P05. Count Symbols.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\obj\Debug\netcoreapp2.1\P05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\obj\Debug\netcoreapp2.1\P05. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\obj\Debug\netcoreapp2.1\P05. Count Symbols.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\obj\Debug\netcoreapp2.1\P05. Count Symbols.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P05. Count Symbols\obj\Debug\netcoreapp2.1\P05. Count Symbols.pdb

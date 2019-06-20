@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\bin\Debug\netcoreapp2.1\P10.  Predicate Party!.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\bin\Debug\netcoreapp2.1\P10.  Predicate Party!.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\bin\Debug\netcoreapp2.1\P10.  Predicate Party!.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\bin\Debug\netcoreapp2.1\P10.  Predicate Party!.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\bin\Debug\netcoreapp2.1\P10.  Predicate Party!.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\obj\Debug\netcoreapp2.1\P10.  Predicate Party!.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\obj\Debug\netcoreapp2.1\P10.  Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\obj\Debug\netcoreapp2.1\P10.  Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\obj\Debug\netcoreapp2.1\P10.  Predicate Party!.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\obj\Debug\netcoreapp2.1\P10.  Predicate Party!.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P10.  Predicate Party!\obj\Debug\netcoreapp2.1\P10.  Predicate Party!.pdb

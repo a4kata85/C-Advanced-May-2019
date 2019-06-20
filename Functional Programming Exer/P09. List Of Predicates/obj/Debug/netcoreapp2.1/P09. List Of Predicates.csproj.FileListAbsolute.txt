@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\bin\Debug\netcoreapp2.1\P09. List Of Predicates.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\bin\Debug\netcoreapp2.1\P09. List Of Predicates.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\bin\Debug\netcoreapp2.1\P09. List Of Predicates.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\bin\Debug\netcoreapp2.1\P09. List Of Predicates.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\bin\Debug\netcoreapp2.1\P09. List Of Predicates.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\obj\Debug\netcoreapp2.1\P09. List Of Predicates.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\obj\Debug\netcoreapp2.1\P09. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\obj\Debug\netcoreapp2.1\P09. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\obj\Debug\netcoreapp2.1\P09. List Of Predicates.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\obj\Debug\netcoreapp2.1\P09. List Of Predicates.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P09. List Of Predicates\obj\Debug\netcoreapp2.1\P09. List Of Predicates.pdb

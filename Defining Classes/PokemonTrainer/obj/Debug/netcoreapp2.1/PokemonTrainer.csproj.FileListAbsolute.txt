@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.pdb

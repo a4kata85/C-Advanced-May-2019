@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb

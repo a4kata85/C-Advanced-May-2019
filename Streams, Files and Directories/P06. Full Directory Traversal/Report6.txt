@@ -1,0 +1,191 @@
+.cs
+--WordCount.cs - 3.000kb
+--WordCount.cs - 3.000kb
+--FullDirectoryTraversal.cs - 1.000kb
+--EvenLines.cs - 1.000kb
+--EvenLines.cs - 1.000kb
+--DirectoryTraversal.cs - 1.000kb
+--LineNumbers.cs - 1.000kb
+--LineNumbers.cs - 1.000kb
+--P06. Full Directory Traversal.AssemblyInfo.cs - 1.000kb
+--P05. Directory Traversal.AssemblyInfo.cs - 1.000kb
+--P04. Copy Binary File.AssemblyInfo.cs - 1.000kb
+--P02. Line Numbers.AssemblyInfo.cs - 1.000kb
+--P01. Even Lines.AssemblyInfo.cs - 0.000kb
+--P03. Word Count.AssemblyInfo.cs - 0.000kb
+--CopyBinaryFile.cs - 0.000kb
+--CopyBinaryFile.cs - 0.000kb
+--TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - 0.000kb
+--TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - 0.000kb
+--TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - 0.000kb
+--TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - 0.000kb
+--TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - 0.000kb
+--TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - 0.000kb
+--TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - 0.000kb
+--TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - 0.000kb
+--TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - 0.000kb
+--TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - 0.000kb
+--TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - 0.000kb
+--TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - 0.000kb
+--TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - 0.000kb
+--TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - 0.000kb
+--TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - 0.000kb
+--TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - 0.000kb
+--TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - 0.000kb
+--TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - 0.000kb
+.cache
+--P01. Even Lines.csprojAssemblyReference.cache - 100.000kb
+--P02. Line Numbers.csprojAssemblyReference.cache - 100.000kb
+--P03. Word Count.csprojAssemblyReference.cache - 100.000kb
+--P04. Copy Binary File.csprojAssemblyReference.cache - 100.000kb
+--P06. Full Directory Traversal.csprojAssemblyReference.cache - 100.000kb
+--P01. Even Lines.assets.cache - 20.000kb
+--P02. Line Numbers.assets.cache - 20.000kb
+--P03. Word Count.assets.cache - 20.000kb
+--P04. Copy Binary File.assets.cache - 20.000kb
+--P05. Directory Traversal.assets.cache - 20.000kb
+--P06. Full Directory Traversal.assets.cache - 20.000kb
+--P01. Even Lines.csproj.nuget.cache - 0.000kb
+--P02. Line Numbers.csproj.nuget.cache - 0.000kb
+--P03. Word Count.csproj.nuget.cache - 0.000kb
+--P04. Copy Binary File.csproj.nuget.cache - 0.000kb
+--P05. Directory Traversal.csproj.nuget.cache - 0.000kb
+--P06. Full Directory Traversal.csproj.nuget.cache - 0.000kb
+--P01. Even Lines.AssemblyInfoInputs.cache - 0.000kb
+--P01. Even Lines.csproj.CoreCompileInputs.cache - 0.000kb
+--P02. Line Numbers.AssemblyInfoInputs.cache - 0.000kb
+--P02. Line Numbers.csproj.CoreCompileInputs.cache - 0.000kb
+--P03. Word Count.AssemblyInfoInputs.cache - 0.000kb
+--P03. Word Count.csproj.CoreCompileInputs.cache - 0.000kb
+--P04. Copy Binary File.AssemblyInfoInputs.cache - 0.000kb
+--P04. Copy Binary File.csproj.CoreCompileInputs.cache - 0.000kb
+--P05. Directory Traversal.AssemblyInfoInputs.cache - 0.000kb
+--P05. Directory Traversal.csproj.CoreCompileInputs.cache - 0.000kb
+--P06. Full Directory Traversal.AssemblyInfoInputs.cache - 0.000kb
+--P06. Full Directory Traversal.csproj.CoreCompileInputs.cache - 0.000kb
+.txt
+--P06. Full Directory Traversal.csproj.FileListAbsolute.txt - 1.000kb
+--P05. Directory Traversal.csproj.FileListAbsolute.txt - 1.000kb
+--P01. Even Lines.csproj.FileListAbsolute.txt - 1.000kb
+--P03. Word Count.csproj.FileListAbsolute.txt - 1.000kb
+--P04. Copy Binary File.csproj.FileListAbsolute.txt - 1.000kb
+--P02. Line Numbers.csproj.FileListAbsolute.txt - 1.000kb
+--outputText.txt - 0.000kb
+--outputText.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--output.txt - 0.000kb
+--output.txt - 0.000kb
+--actualResult.txt - 0.000kb
+--actualResult.txt - 0.000kb
+--expectedResult.txt - 0.000kb
+--expectedResult.txt - 0.000kb
+--expectedResult.txt - 0.000kb
+--words.txt - 0.000kb
+--words.txt - 0.000kb
+--words.txt - 0.000kb
+.json
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--P06. Full Directory Traversal.deps.json - 0.000kb
+--P05. Directory Traversal.deps.json - 0.000kb
+--P04. Copy Binary File.deps.json - 0.000kb
+--P02. Line Numbers.deps.json - 0.000kb
+--P01. Even Lines.deps.json - 0.000kb
+--P03. Word Count.deps.json - 0.000kb
+--P01. Even Lines.runtimeconfig.dev.json - 0.000kb
+--P02. Line Numbers.runtimeconfig.dev.json - 0.000kb
+--P03. Word Count.runtimeconfig.dev.json - 0.000kb
+--P04. Copy Binary File.runtimeconfig.dev.json - 0.000kb
+--P05. Directory Traversal.runtimeconfig.dev.json - 0.000kb
+--P06. Full Directory Traversal.runtimeconfig.dev.json - 0.000kb
+--P01. Even Lines.runtimeconfig.json - 0.000kb
+--P02. Line Numbers.runtimeconfig.json - 0.000kb
+--P03. Word Count.runtimeconfig.json - 0.000kb
+--P04. Copy Binary File.runtimeconfig.json - 0.000kb
+--P05. Directory Traversal.runtimeconfig.json - 0.000kb
+--P06. Full Directory Traversal.runtimeconfig.json - 0.000kb
+.dll
+--P03. Word Count.dll - 7.000kb
+--P03. Word Count.dll - 7.000kb
+--P06. Full Directory Traversal.dll - 7.000kb
+--P06. Full Directory Traversal.dll - 7.000kb
+--P05. Directory Traversal.dll - 7.000kb
+--P05. Directory Traversal.dll - 7.000kb
+--P01. Even Lines.dll - 5.000kb
+--P01. Even Lines.dll - 5.000kb
+--P02. Line Numbers.dll - 5.000kb
+--P02. Line Numbers.dll - 5.000kb
+--P04. Copy Binary File.dll - 5.000kb
+--P04. Copy Binary File.dll - 5.000kb
+.pdb
+--P03. Word Count.pdb - 1.000kb
+--P03. Word Count.pdb - 1.000kb
+--P06. Full Directory Traversal.pdb - 1.000kb
+--P06. Full Directory Traversal.pdb - 1.000kb
+--P05. Directory Traversal.pdb - 1.000kb
+--P05. Directory Traversal.pdb - 1.000kb
+--P01. Even Lines.pdb - 0.000kb
+--P01. Even Lines.pdb - 0.000kb
+--P02. Line Numbers.pdb - 0.000kb
+--P02. Line Numbers.pdb - 0.000kb
+--P04. Copy Binary File.pdb - 0.000kb
+--P04. Copy Binary File.pdb - 0.000kb
+.csproj
+--P06. Full Directory Traversal.csproj - 0.000kb
+--P05. Directory Traversal.csproj - 0.000kb
+--P04. Copy Binary File.csproj - 0.000kb
+--P04. Copy Binary File.csproj - 0.000kb
+--P02. Line Numbers.csproj - 0.000kb
+--P02. Line Numbers.csproj - 0.000kb
+--P01. Even Lines.csproj - 0.000kb
+--P03. Word Count.csproj - 0.000kb
+--P01. Even Lines.csproj - 0.000kb
+--P03. Word Count.csproj - 0.000kb
+.props
+--P06. Full Directory Traversal.csproj.nuget.g.props - 1.000kb
+--P05. Directory Traversal.csproj.nuget.g.props - 1.000kb
+--P04. Copy Binary File.csproj.nuget.g.props - 1.000kb
+--P02. Line Numbers.csproj.nuget.g.props - 1.000kb
+--P01. Even Lines.csproj.nuget.g.props - 1.000kb
+--P03. Word Count.csproj.nuget.g.props - 1.000kb
+.targets
+--P01. Even Lines.csproj.nuget.g.targets - 0.000kb
+--P02. Line Numbers.csproj.nuget.g.targets - 0.000kb
+--P03. Word Count.csproj.nuget.g.targets - 0.000kb
+--P04. Copy Binary File.csproj.nuget.g.targets - 0.000kb
+--P05. Directory Traversal.csproj.nuget.g.targets - 0.000kb
+--P06. Full Directory Traversal.csproj.nuget.g.targets - 0.000kb
+.png
+--copied.png - 9.000kb
+--copyMe.png - 9.000kb
+--copyMe.png - 9.000kb
+--copied.png - 9.000kb
+--copyMe.png - 9.000kb
+.docx
+--04. CSharp-Advanced-Streams-Files-and-Directories-Exercise.docx - 419.000kb
+.dtbcache
+--.dtbcache - 1458.000kb
+.ide
+--storage.ide - 640.000kb
+.ide-shm
+--storage.ide-shm - 32.000kb
+.ide-wal
+--storage.ide-wal - 4031.000kb
+.lock
+--db.lock - 0.000kb
+.sln
+--Streams, Files and Directories.sln - 3.000kb
+.suo
+--.suo - 53.000kb
+.zip
+--Resources.zip - 9.000kb

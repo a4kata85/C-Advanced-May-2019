@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Exam Preparation-CSharp Advanced\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.pdb

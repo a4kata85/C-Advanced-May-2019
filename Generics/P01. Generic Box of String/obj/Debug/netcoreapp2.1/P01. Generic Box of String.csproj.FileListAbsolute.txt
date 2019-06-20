@@ -1,0 +1,11 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\bin\Debug\netcoreapp2.1\P01. Generic Box of String.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\bin\Debug\netcoreapp2.1\P01. Generic Box of String.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\bin\Debug\netcoreapp2.1\P01. Generic Box of String.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\bin\Debug\netcoreapp2.1\P01. Generic Box of String.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\bin\Debug\netcoreapp2.1\P01. Generic Box of String.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\obj\Debug\netcoreapp2.1\P01. Generic Box of String.csprojAssemblyReference.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\obj\Debug\netcoreapp2.1\P01. Generic Box of String.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\obj\Debug\netcoreapp2.1\P01. Generic Box of String.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\obj\Debug\netcoreapp2.1\P01. Generic Box of String.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\obj\Debug\netcoreapp2.1\P01. Generic Box of String.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P01. Generic Box of String\obj\Debug\netcoreapp2.1\P01. Generic Box of String.pdb

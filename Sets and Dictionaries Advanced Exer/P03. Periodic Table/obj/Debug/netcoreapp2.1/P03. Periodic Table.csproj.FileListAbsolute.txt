@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\bin\Debug\netcoreapp2.1\P03. Periodic Table.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\bin\Debug\netcoreapp2.1\P03. Periodic Table.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\bin\Debug\netcoreapp2.1\P03. Periodic Table.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\bin\Debug\netcoreapp2.1\P03. Periodic Table.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\bin\Debug\netcoreapp2.1\P03. Periodic Table.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\obj\Debug\netcoreapp2.1\P03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\obj\Debug\netcoreapp2.1\P03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\obj\Debug\netcoreapp2.1\P03. Periodic Table.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\obj\Debug\netcoreapp2.1\P03. Periodic Table.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Sets and Dictionaries Advanced Exer\P03. Periodic Table\obj\Debug\netcoreapp2.1\P03. Periodic Table.pdb

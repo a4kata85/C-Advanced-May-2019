@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\bin\Debug\netcoreapp2.1\P03. Custom Min Function.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\bin\Debug\netcoreapp2.1\P03. Custom Min Function.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\bin\Debug\netcoreapp2.1\P03. Custom Min Function.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\bin\Debug\netcoreapp2.1\P03. Custom Min Function.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\bin\Debug\netcoreapp2.1\P03. Custom Min Function.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\obj\Debug\netcoreapp2.1\P03. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\obj\Debug\netcoreapp2.1\P03. Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\obj\Debug\netcoreapp2.1\P03. Custom Min Function.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\obj\Debug\netcoreapp2.1\P03. Custom Min Function.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Functional Programming Exer\P03. Custom Min Function\obj\Debug\netcoreapp2.1\P03. Custom Min Function.pdb

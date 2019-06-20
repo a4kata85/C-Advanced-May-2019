@@ -1,0 +1,10 @@
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\bin\Debug\netcoreapp2.1\P09. Custom Linked List.deps.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\bin\Debug\netcoreapp2.1\P09. Custom Linked List.runtimeconfig.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\bin\Debug\netcoreapp2.1\P09. Custom Linked List.runtimeconfig.dev.json
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\bin\Debug\netcoreapp2.1\P09. Custom Linked List.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\bin\Debug\netcoreapp2.1\P09. Custom Linked List.pdb
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\obj\Debug\netcoreapp2.1\P09. Custom Linked List.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\obj\Debug\netcoreapp2.1\P09. Custom Linked List.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\obj\Debug\netcoreapp2.1\P09. Custom Linked List.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\obj\Debug\netcoreapp2.1\P09. Custom Linked List.dll
+C:\Users\EliteBook\source\repos\C# Advanced May 2019\Generics\P09. Custom Linked List\obj\Debug\netcoreapp2.1\P09. Custom Linked List.pdb
